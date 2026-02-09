@@ -43,15 +43,19 @@ The summary plot below reveals the most influential biomarkers for predicting li
 * **Top Biomarkers:** AST (Aspartate Transaminase), ALB (Albumin), and ALP (Alkaline Phosphatase).
 * **Insight:** High levels of AST are strongly correlated with advanced disease stages (Class 4).
 
-![SHAP Summary Plot](path/to/your/image_3fb7f6.png)
-*(Add your SHAP summary image here)*
+<img width="784" height="614" alt="download" src="https://github.com/user-attachments/assets/86b108ba-39b9-4c71-9050-8e4c526c275e" />
+
 
 ### 2. Local Interpretation (Patient-Level)
 The waterfall plot demonstrates a single prediction instance (Class 4).
 * **Observation:** In this specific case, low levels of **CHE** (-0.308) and **AST** (-0.273) were the primary drivers pushing the prediction toward the specific disease class.
+<img width="784" height="634" alt="download 0" src="https://github.com/user-attachments/assets/d784c81e-e329-4516-845b-6ab5d923b982" />
 
-![SHAP Waterfall Plot](path/to/your/image_3fb816.png)
-*(Add your SHAP waterfall image here)*
+<img width="788" height="634" alt="download 1" src="https://github.com/user-attachments/assets/6767a9e6-ae04-4f02-83c8-26af10f707a2" />
+
+<img width="787" height="634" alt="download 2" src="https://github.com/user-attachments/assets/082b579b-0eca-477b-b1a5-60b736848712" />
+<img width="784" height="634" alt="download 3" src="https://github.com/user-attachments/assets/0755ddbd-a441-4445-8a3c-6e20ff137d14" />
+<img width="784" height="634" alt="download 4" src="https://github.com/user-attachments/assets/722dc90b-9a9b-4a5e-8ced-2aa53c28b886" />
 
 ## 🛠️ Tech Stack
 
